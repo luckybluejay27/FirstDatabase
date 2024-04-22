@@ -1,15 +1,3 @@
-int NumberTag,
-string FileName,
-string FileType,
-string PathLink,
-array DateCreated,
-array CurrentVersion,
-array FirstVersion,
-string Author,
-string Editor,
-string Description,
-
-
 using System.Text.Json;
 using System.Text.Json.Serialization;
 

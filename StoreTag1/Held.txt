@@ -1,0 +1,17 @@
+int NumberTag,
+string FileName,
+string FileType,
+string PathLink,
+array DateCreated,
+array CurrentVersion,
+array FirstVersion,
+string Author,
+string Editor,
+string Description,
+
+
+// Basic Write to JSON
+using System.IO;
+
+string jsonString = "{\"Message\":\"Hello World\"}";
+File.WriteAllText("TagStore.json", jsonString);
