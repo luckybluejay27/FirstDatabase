@@ -1,0 +1,5 @@
+C:\Users\Lucky\Documents\Vscode Projects\My First Database\FirstDatabase\obj\Debug\net8.0\FirstDatabase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucky\Documents\Vscode Projects\My First Database\FirstDatabase\obj\Debug\net8.0\FirstDatabase.AssemblyInfoInputs.cache
+C:\Users\Lucky\Documents\Vscode Projects\My First Database\FirstDatabase\obj\Debug\net8.0\FirstDatabase.AssemblyInfo.cs
+C:\Users\Lucky\Documents\Vscode Projects\My First Database\FirstDatabase\obj\Debug\net8.0\FirstDatabase.csproj.CoreCompileInputs.cache
+C:\Users\Lucky\Documents\Vscode Projects\My First Database\FirstDatabase\obj\Debug\net8.0\FirstDatabase.sourcelink.json
