@@ -1,15 +1,15 @@
-C:\Users\Lucky\Documents\Vscode Projects\My First Database\FirstDatabase\StoreTag1\bin\Debug\net8.0\StoreTag1.exe
-C:\Users\Lucky\Documents\Vscode Projects\My First Database\FirstDatabase\StoreTag1\bin\Debug\net8.0\StoreTag1.deps.json
-C:\Users\Lucky\Documents\Vscode Projects\My First Database\FirstDatabase\StoreTag1\bin\Debug\net8.0\StoreTag1.runtimeconfig.json
-C:\Users\Lucky\Documents\Vscode Projects\My First Database\FirstDatabase\StoreTag1\bin\Debug\net8.0\StoreTag1.dll
-C:\Users\Lucky\Documents\Vscode Projects\My First Database\FirstDatabase\StoreTag1\bin\Debug\net8.0\StoreTag1.pdb
-C:\Users\Lucky\Documents\Vscode Projects\My First Database\FirstDatabase\StoreTag1\obj\Debug\net8.0\StoreTag1.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Lucky\Documents\Vscode Projects\My First Database\FirstDatabase\StoreTag1\obj\Debug\net8.0\StoreTag1.AssemblyInfoInputs.cache
-C:\Users\Lucky\Documents\Vscode Projects\My First Database\FirstDatabase\StoreTag1\obj\Debug\net8.0\StoreTag1.AssemblyInfo.cs
-C:\Users\Lucky\Documents\Vscode Projects\My First Database\FirstDatabase\StoreTag1\obj\Debug\net8.0\StoreTag1.csproj.CoreCompileInputs.cache
-C:\Users\Lucky\Documents\Vscode Projects\My First Database\FirstDatabase\StoreTag1\obj\Debug\net8.0\StoreTag1.sourcelink.json
-C:\Users\Lucky\Documents\Vscode Projects\My First Database\FirstDatabase\StoreTag1\obj\Debug\net8.0\StoreTag1.dll
-C:\Users\Lucky\Documents\Vscode Projects\My First Database\FirstDatabase\StoreTag1\obj\Debug\net8.0\refint\StoreTag1.dll
-C:\Users\Lucky\Documents\Vscode Projects\My First Database\FirstDatabase\StoreTag1\obj\Debug\net8.0\StoreTag1.pdb
-C:\Users\Lucky\Documents\Vscode Projects\My First Database\FirstDatabase\StoreTag1\obj\Debug\net8.0\StoreTag1.genruntimeconfig.cache
-C:\Users\Lucky\Documents\Vscode Projects\My First Database\FirstDatabase\StoreTag1\obj\Debug\net8.0\ref\StoreTag1.dll
+C:\Users\lucky\OneDrive\Documents\Code\FirstDatabase\StoreTag1\bin\Debug\net8.0\StoreTag1.exe
+C:\Users\lucky\OneDrive\Documents\Code\FirstDatabase\StoreTag1\bin\Debug\net8.0\StoreTag1.deps.json
+C:\Users\lucky\OneDrive\Documents\Code\FirstDatabase\StoreTag1\bin\Debug\net8.0\StoreTag1.runtimeconfig.json
+C:\Users\lucky\OneDrive\Documents\Code\FirstDatabase\StoreTag1\bin\Debug\net8.0\StoreTag1.dll
+C:\Users\lucky\OneDrive\Documents\Code\FirstDatabase\StoreTag1\bin\Debug\net8.0\StoreTag1.pdb
+C:\Users\lucky\OneDrive\Documents\Code\FirstDatabase\StoreTag1\obj\Debug\net8.0\StoreTag1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucky\OneDrive\Documents\Code\FirstDatabase\StoreTag1\obj\Debug\net8.0\StoreTag1.AssemblyInfoInputs.cache
+C:\Users\lucky\OneDrive\Documents\Code\FirstDatabase\StoreTag1\obj\Debug\net8.0\StoreTag1.AssemblyInfo.cs
+C:\Users\lucky\OneDrive\Documents\Code\FirstDatabase\StoreTag1\obj\Debug\net8.0\StoreTag1.csproj.CoreCompileInputs.cache
+C:\Users\lucky\OneDrive\Documents\Code\FirstDatabase\StoreTag1\obj\Debug\net8.0\StoreTag1.sourcelink.json
+C:\Users\lucky\OneDrive\Documents\Code\FirstDatabase\StoreTag1\obj\Debug\net8.0\StoreTag1.dll
+C:\Users\lucky\OneDrive\Documents\Code\FirstDatabase\StoreTag1\obj\Debug\net8.0\refint\StoreTag1.dll
+C:\Users\lucky\OneDrive\Documents\Code\FirstDatabase\StoreTag1\obj\Debug\net8.0\StoreTag1.pdb
+C:\Users\lucky\OneDrive\Documents\Code\FirstDatabase\StoreTag1\obj\Debug\net8.0\StoreTag1.genruntimeconfig.cache
+C:\Users\lucky\OneDrive\Documents\Code\FirstDatabase\StoreTag1\obj\Debug\net8.0\ref\StoreTag1.dll
