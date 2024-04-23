@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Lucky\\.nuget\\packages\\": {}
+    "C:\\Users\\lucky\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Lucky\\Documents\\Vscode Projects\\My First Database\\FirstDatabase\\StoreTag1\\StoreTag1.csproj",
+      "projectUniqueName": "C:\\Users\\lucky\\OneDrive\\Documents\\Code\\FirstDatabase\\StoreTag1\\StoreTag1.csproj",
       "projectName": "StoreTag1",
-      "projectPath": "C:\\Users\\Lucky\\Documents\\Vscode Projects\\My First Database\\FirstDatabase\\StoreTag1\\StoreTag1.csproj",
-      "packagesPath": "C:\\Users\\Lucky\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Lucky\\Documents\\Vscode Projects\\My First Database\\FirstDatabase\\StoreTag1\\obj\\",
+      "projectPath": "C:\\Users\\lucky\\OneDrive\\Documents\\Code\\FirstDatabase\\StoreTag1\\StoreTag1.csproj",
+      "packagesPath": "C:\\Users\\lucky\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\lucky\\OneDrive\\Documents\\Code\\FirstDatabase\\StoreTag1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Lucky\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\lucky\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
